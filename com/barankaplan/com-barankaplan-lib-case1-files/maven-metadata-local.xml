@@ -3,13 +3,14 @@
   <groupId>com.barankaplan</groupId>
   <artifactId>com-barankaplan-lib-case1-files</artifactId>
   <versioning>
-    <release>1.2.1</release>
+    <release>1.3.0</release>
     <versions>
       <version>1.0.0</version>
       <version>1.1.0</version>
       <version>1.2.0</version>
       <version>1.2.1</version>
+      <version>1.3.0</version>
     </versions>
-    <lastUpdated>20211105074248</lastUpdated>
+    <lastUpdated>20211105081217</lastUpdated>
   </versioning>
 </metadata>
