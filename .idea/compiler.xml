@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="com-barankaplan-lib-case1-files (1)" />
+        <module name="step1-problem" />
+        <module name="com-barankaplan-lib-case1-files (2)" />
+        <module name="layeredarchitecturejdbc" />
+        <module name="com-barankaplan-lib-case1-files (3)" />
+        <module name="com-barankaplan-lib-case1-files (4)" />
+        <module name="com-barankaplan-lib-case1-files (5)" />
+        <module name="com-barankaplan-lib-case1-files (6)" />
+        <module name="com-barankaplan-lib-case1-files (7)" />
+        <module name="com-barankaplan-lib-case1-files (8)" />
+        <module name="kaplan-annotation-reflection-lib" />
+        <module name="com-barankaplan-lib-case1-files (9)" />
+        <module name="com-barankaplan-lib-case3456-files" />
+        <module name="springlibparserinaction" />
+        <module name="step2-solution" />
+        <module name="collectioninjection (1)" />
+        <module name="collectioninjection" />
+        <module name="com-barankaplan-lib-case1-files" />
+        <module name="com-barankaplan-lib-case2-files" />
+        <module name="springlibparser" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="collectioninjection" target="1.5" />
+      <module name="collectioninjection (1)" target="1.5" />
+      <module name="com-barankaplan-lib-case1-files" target="1.5" />
+      <module name="com-barankaplan-lib-case1-files (1)" target="1.5" />
+      <module name="com-barankaplan-lib-case1-files (2)" target="1.5" />
+      <module name="com-barankaplan-lib-case1-files (3)" target="1.5" />
+      <module name="com-barankaplan-lib-case1-files (4)" target="1.5" />
+      <module name="com-barankaplan-lib-case1-files (5)" target="1.5" />
+      <module name="com-barankaplan-lib-case1-files (6)" target="1.5" />
+      <module name="com-barankaplan-lib-case1-files (7)" target="1.5" />
+      <module name="com-barankaplan-lib-case1-files (8)" target="1.5" />
+      <module name="com-barankaplan-lib-case1-files (9)" target="1.5" />
+      <module name="com-barankaplan-lib-case2-files" target="1.5" />
+      <module name="com-barankaplan-lib-case3456-files" target="1.5" />
+      <module name="kaplan-annotation-reflection-lib" target="1.5" />
+      <module name="layeredarchitecturejdbc" target="1.5" />
+      <module name="springlibparser" target="1.5" />
+      <module name="springlibparserinaction" target="1.5" />
+      <module name="step1-problem" target="1.5" />
+      <module name="step2-solution" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
